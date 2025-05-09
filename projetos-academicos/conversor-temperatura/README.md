@@ -1,14 +1,13 @@
 # Conversor de Temperatura
 
-*Este projeto é um conversor simples de temperatura entre Fahrenheit e Celsius, desenvolvido em Python. O programa solicita ao usuário a temperatura e o tipo de conversão, exibindo o resultado ao final.*
+Este script converte temperaturas entre Fahrenheit e Celsius. Ele permite que o usuário insira uma temperatura e escolha a conversão desejada.
 
-## Tecnologias utilizadas
-- Python 
+## Como usar:
+1. Faça o download do script `conversor_temperatura.ipynb`.
+2. Abra o script em um ambiente como Jupyter Notebook ou Google Colab.
+3. Execute as células para realizar a conversão de temperatura.
 
-## Como executar
-1. *Abra o terminal*
-2. *Execute o arquivo com: `python conversor.py`*
-3. *Informe a temperatura e o tipo de conversão solicitado*
+### Exemplo de uso:
+- Entrada: 32°F
+- Saída: 0°C
 
-## Objetivo educacional
-*Este script foi desenvolvido para praticar entrada e saída de dados, condicionais e manipulação de strings em Python.*
