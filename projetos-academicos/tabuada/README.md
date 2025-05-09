@@ -1,14 +1,24 @@
-# Gerador de Tabuada
+# Tabuada
 
-*Este projeto solicita ao usuário um número inteiro e exibe a tabuada completa desse número, de 1 a 10.*
+Este script mostra a tabuada de qualquer número que o usuário escolher. Ele gera a tabuada de 1 a 10 do número fornecido.
 
-## Tecnologias utilizadas
-- Python 
+## Como usar:
+1. Faça o download do script `tabuada.ipynb`.
+2. Abra o script em um ambiente como Jupyter Notebook ou Google Colab.
+3. Insira o número para o qual você deseja ver a tabuada.
+4. Execute as células para gerar a tabuada.
 
-## Como executar
-1. *Abra o terminal*
-2. *Execute o arquivo com: `python tabuada.py`*
-3. *Digite o número para o qual deseja ver a tabuada*
+### Exemplo de uso:
+- Entrada: 5
+- Saída:
+5 x 1 = 5
+5 x 2 = 10
+5 x 3 = 15
+5 x 4 = 20
+5 x 5 = 25
+5 x 6 = 30
+5 x 7 = 35
+5 x 8 = 40
+5 x 9 = 45
+5 x 10 = 50
 
-## Objetivo educacional
-*Este script foi criado para treinar o uso de laços de repetição (for loops) e entrada de dados no Python.*
