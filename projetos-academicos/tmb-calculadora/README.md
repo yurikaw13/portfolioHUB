@@ -1,14 +1,23 @@
-# Calculadora de Taxa Metabólica Basal (TMB)
+# Calculadora TMB (Taxa Metabólica Basal)
 
-*Este projeto realiza o cálculo da Taxa Metabólica Basal com base em informações do usuário, como peso, altura, idade e sexo, utilizando a Fórmula de Harris-Benedict.*
+A **Calculadora TMB** é um programa em Python que calcula a Taxa Metabólica Basal (TMB) de uma pessoa, que é a quantidade mínima de calorias que o corpo necessita para manter suas funções vitais em repouso.
 
-## Tecnologias utilizadas
-- Python 
+## Como funciona?
 
-## Como executar
-1. *Abra o terminal*
-2. *Execute o arquivo com: `python tmb.py`*
-3. *Informe os dados solicitados (peso, altura, idade e sexo)*
+O cálculo da TMB é realizado com base em informações fornecidas pelo usuário, como:
 
-## Objetivo educacional
-*Este script foi criado para exercitar entrada de dados, estrutura condicional e operadores matemáticos no Python.*
+- **Sexo** (H para Homem, M para Mulher)
+- **Peso** (em KG)
+- **Idade**
+- **Altura** (em cm)
+
+A calculadora utiliza as seguintes fórmulas para calcular a TMB:
+
+- Para **Homens**:
+  ```text
+  TMB = 66.47 + (13.75 * peso) + (5.003 * altura) - (6.755 * idade)
+
+- Para **Mulheres**:
+  ```text
+  TMB = 655.09 + (9.563 * peso) + (1.85 * altura) - (4.676 * idade)
+
