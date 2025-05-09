@@ -9,16 +9,16 @@ Este script mostra a tabuada de qualquer número que o usuário escolher. Ele ge
 4. Execute as células para gerar a tabuada.
 
 ### Exemplo de uso:
-- Entrada: 5
+- Entrada: 52
 - Saída:
-- 5 x 1 = 5
-- 5 x 2 = 10
-- 5 x 3 = 15
-- 5 x 4 = 20
-- 5 x 5 = 25
-- 5 x 6 = 30
-- 5 x 7 = 35
-- 5 x 8 = 40
-- 5 x 9 = 45
-- 5 x 10 = 50
+- 52 x 1 = 52
+- 52 x 2 = 104
+- 52 x 3 = 156
+- 52 x 4 = 208
+- 52 x 5 = 260
+- 52 x 6 = 312
+- 52 x 7 = 364
+- 52 x 8 = 416
+- 52 x 9 = 468
+- 52 x 10 = 520
 
