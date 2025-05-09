@@ -14,5 +14,5 @@
 
 ## 🔗 Contato
 - *Yuri Hikaru Kawano*
-- *[LinkedIn]*(https://linkedin.com/in/seuusuario)
+- *[LinkedIn]*(https://www.linkedin.com/in/yuri-hikaru-kawano-4a741035b/)
 - *yuri.hikarukawano50@gmail.com*
