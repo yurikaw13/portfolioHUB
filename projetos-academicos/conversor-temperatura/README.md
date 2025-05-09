@@ -8,6 +8,6 @@ Este script converte temperaturas entre Fahrenheit e Celsius. Ele permite que o 
 3. Execute as células para realizar a conversão de temperatura.
 
 ### Exemplo de uso:
-- Entrada: 32°F
-- Saída: 0°C
+- Entrada: 100°C
+- Saída: 212°F
 
